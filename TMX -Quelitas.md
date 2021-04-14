@@ -27,6 +27,3 @@ programamos **2 min/37º/ vel 1**
 3.- Incorporar la harina (550g) y la sal (10g) y programar **20 seg/vel6**
 
 >NOTA: en el post-it de donde copio esto no se especifica tiempo, ni si calor por arriba y por abajo ni cuanto debe pesar cada quelita. En la próxima vez que lo hagámos especificar
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzgxMTgzOSw3MzA5OTgxMTZdfQ==
--->

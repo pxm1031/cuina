@@ -5,8 +5,8 @@ RECETAS DE COCINA
 Recetas más frecuentes
 ----------------------
 
-- [Fish and chips](./Fish and chips.md)
-- [Judias Blancas.md](Judias Blancas.md)
+- [Fish and chips](./Fish\ and\ chips.md)
+- [Judias Blancas.md]("Judias Blancas.md")
 [Panades.md](Panades.md)
 [Sushi.md](Sushi.md)
 [TMX - Baba ganoush.md](TMX - Baba ganoush.md)

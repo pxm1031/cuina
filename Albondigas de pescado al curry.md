@@ -32,7 +32,7 @@ Ingredientes
 - 1 cucharada de vinagre de manzana
 - 1 cucharada de tamari
 
-###Acompañamiento:
+### Acompañamiento:
 - 1 boniato grande
 - 1 cucharada de pimentón picante
 - Sal

@@ -45,6 +45,8 @@ Elaboración:
 
 1. Precalentamos el horno a 180ºC.
 
+> NOTA: Nosotros rayamos el tomate, a veces no le ponemos gambas, y tamarí no solemos poner.
+
 2. Para hacer los chips de boniato, los lavamos con un cepillo de cerdas 
 naturales, secamos bien y cortamos en gajos o tiras finas. Después, los ponemos 
 en una bandeja de horno, salpimentamos, agregamos las especias y el aceite de 

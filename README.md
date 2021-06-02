@@ -9,6 +9,7 @@ Recetas más frecuentes
 - [Judias Blancas](<Judias Blancas.md>)
 - [Panades](Panades.md)
 - [Sushi](Sushi.md)
+- [Albondigas de pescado al curry](<Albondigas de pescado al curry.md>)
 
 
 Recetas Thermomix más frecuentes
